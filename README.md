@@ -3,7 +3,8 @@
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
-
+# NAME.:PRIYA.B
+# REF.NO:24900803
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
 2. Windows 10
@@ -48,6 +49,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
+![Screenshot 2024-12-04 091818](https://github.com/user-attachments/assets/f159614b-9527-4f80-b114-855193a9ed56)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
